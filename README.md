@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ogliva
-- 👀 I’m interested in web and app development
-- 🌱 I’m currently learning java
-- 📫 How to reach me discord Seven_Shots#1555
+- 👀 I’m interested in web dev
+- 🌱 I’m currently learning html/css
+- 📫 Discord ogliva1
 
 <!---
 Ogliva/Ogliva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
